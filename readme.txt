@@ -1,4 +1,4 @@
-1)Test ve debug için kullandığım dataseti gönderiyorum.Derste örnek verilen playTennis setinin bazı attribute değerlerinin değiştirilmiş hali.
-2)Kodda önemli olabilecek yerlere elimden geldiği kadar comment atmaya çalıştım.
-3)Math,sys,pandas ve logisticRegression dışında kütüphane kullanmadım.
+1)Test ve debug iÃ§in kullandÄ±ÄŸÄ±m dataset bulunmaktadÄ±r.Klasik playTennis setinin bazÄ± attribute deÄŸerlerinin deÄŸiÅŸtirilmiÅŸ hali.
+2)Kodda Ã¶nemli olabilecek yerlere elimden geldiÄŸi kadar comment atmaya Ã§alÄ±ÅŸtÄ±m.
+3)Math,sys,pandas ve logisticRegression dÄ±ÅŸÄ±nda kÃ¼tÃ¼phane kullanmadÄ±m.
 4)Run command "python hw2.py data.csv -d x".
